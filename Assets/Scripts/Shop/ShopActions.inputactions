@@ -1,0 +1,40 @@
+{
+    "name": "ShopActions",
+    "maps": [
+        {
+            "name": "ShopInput",
+            "id": "95dcc38b-c48b-4c85-9928-cd610165e735",
+            "actions": [
+                {
+                    "name": "Shop",
+                    "type": "Button",
+                    "id": "bdc2838d-a794-496e-a331-66d265e7a40c",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "2b33491b-ea07-4b64-bd6d-bfbbd270fe84",
+                    "path": "<Keyboard>/g",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "WhatIsThis",
+                    "action": "Shop",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "WhatIsThis",
+            "bindingGroup": "WhatIsThis",
+            "devices": []
+        }
+    ]
+}

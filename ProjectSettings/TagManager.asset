@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Spawn Point
+  - Rooms
+  - DoorWall
+  - Enemy
+  - Sword
+  - topCollider
+  - bottomCollider
+  - horCollider
+  - rightCollider
+  - leftCollider
+  - topMover
+  - leftMover
+  - rightMover
+  - bottomMover
+  - Health
+  - Shop
+  - HealthUI
+  - BombsUI
+  - Boss
+  - Manager
+  - Shop_2
+  - GoldUI
+  - Easy
+  - Hard
+  - DiffUI
+  - Canvas
+  - Canvas2
+  - RetryButton
+  - FinishUI
+  - retryButton
+  - ShopShield
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Outline
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 1934643057
+    locked: 0
+  - name: Door
+    uniqueID: 2024729439
+    locked: 0
+  - name: Outline
+    uniqueID: 3787070779
+    locked: 0
+  - name: player
+    uniqueID: 3695387349
+    locked: 0
+  - name: Loading Screen
+    uniqueID: 3541562101
+    locked: 0
